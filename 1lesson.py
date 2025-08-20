@@ -1,1 +1,1 @@
-Chujów sto dsdasdasd
+print("Siemano byku")
